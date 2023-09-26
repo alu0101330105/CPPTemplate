@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/Jow/Documents/.Uni/Cuarto/CC/TemplateC++/build/testing_all[1]_tests.cmake")
+  include("/mnt/c/Users/Jow/Documents/.Uni/Cuarto/CC/TemplateC++/build/testing_all[1]_tests.cmake")
+else()
+  add_test(testing_all_NOT_BUILT testing_all_NOT_BUILT)
+endif()

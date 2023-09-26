@@ -1,0 +1,30 @@
+Start testing: Sep 25 19:48 WEST
+----------------------------------------------------------
+1/1 Testing: a.a
+1/1 Test: a.a
+Command: "/mnt/c/Users/Jow/Documents/.Uni/Cuarto/CC/TemplateC++/bin/testing_all" "--gtest_filter=a.a" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Jow/Documents/.Uni/Cuarto/CC/TemplateC++/build
+"a.a" start time: Sep 25 19:48 WEST
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Jow/Documents/.Uni/Cuarto/CC/TemplateC++/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = a.a
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from a
+[ RUN      ] a.a
+[       OK ] a.a (0 ms)
+[----------] 1 test from a (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"a.a" end time: Sep 25 19:48 WEST
+"a.a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 25 19:48 WEST

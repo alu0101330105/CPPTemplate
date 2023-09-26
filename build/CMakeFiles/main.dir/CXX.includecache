@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Jow/Documents/.Uni/Cuarto/CC/TemplateC++/include/headers.h
+iostream
+-
+string
+-
+
+/mnt/c/Users/Jow/Documents/.Uni/Cuarto/CC/TemplateC++/src/main.cc
+../include/headers.h
+/mnt/c/Users/Jow/Documents/.Uni/Cuarto/CC/TemplateC++/include/headers.h
+

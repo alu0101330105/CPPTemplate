@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/testing_all.dir/tests/sampleTest.cc.o  -o ../bin/testing_all  -Wl,-rpath,/mnt/c/Users/Jow/Documents/.Uni/Cuarto/CC/TemplateC++/lib lib/libgtest_main.a ../lib/liblibraries.so lib/libgtest.a -lpthread 
